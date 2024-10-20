@@ -1,0 +1,28 @@
+body {
+    color:red;
+    background-color: aqua;
+}
+h1{
+    color: orange;
+        background-color: red;
+
+}
+h2{
+    color:green;
+            background-color: orange;
+
+}
+h3{
+    color:purple;
+            background-color: hotpink;
+
+}
+h4{
+    color:hotpink;
+           background-color: purple;
+
+}
+p{
+    color:blue;
+
+}
