@@ -1,28 +1,73 @@
+html {
+    margin: 9px;
+    padding: 9px;
+}
 body {
+    
+    background-color: darkgreen;
+     
+}
+.click {
     color:red;
-    background-color: aqua;
+    text-align:right;
 }
-h1{
+.h1{
+    background-color:red;
+}
+.h2 {
+    background-color:orange;
+}
+
+.h4 {
+    background-color:purple;
+}
+h1 {
+ margin: 10px;
+    padding: 0;
+    text-align: center;
     color: orange;
-        background-color: red;
+    font-family: verdana;
 
 }
-h2{
-    color:green;
-            background-color: orange;
+h2 {
+ margin: 10px;
+    padding: 0;    
+    text-align: center;
+    font-family: verdana;
+    color: green;
 
 }
-h3{
-    color:purple;
-            background-color: hotpink;
+h3 {
+ margin: 10px;
+    padding: 0;
+    text-align: right;
+    font-family: verdana;
+    color: hotpink;
 
 }
-h4{
-    color:hotpink;
-           background-color: purple;
+.poop{
+    color:  #b5651d;
+}
+.feeling{
+    color:lime;
+}
+img{
+width: 400px;
+  margin: 0 auto; 
+float: right; }
+h4 {
+ margin: 10px;
+    padding: 0;
+    text-align: center;
+    font-family: verdana;
+    color: hotpink;
+   
 
 }
-p{
-    color:blue;
+p {
+    text-align: left;
+    color: orange;
+    font-family: verdana;
+    color: aqua;
 
 }
